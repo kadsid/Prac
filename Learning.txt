@@ -1,0 +1,16 @@
+-Automating AWS and vSphere with Terraform
+-AWS Certified Solutions Architect - Associate
+-Getting Started with Jenkins 2
+-Getting Started with Docker
+-GitHub Fundamentals
+-Continuous Delivery Using Docker And Ansible
+-jfrog- youtube
+
+cred: vrnvikas1994
+pass:Capgemini@321
+====
+7c6138d2a1d249b9ba149be341ddff47
+bd8d84bebf3d449fb8bbe3f643fba51a
+
+ekta- get functional knowledge, not coding,which one to start.
+
